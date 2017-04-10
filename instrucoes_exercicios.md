@@ -1,6 +1,6 @@
 # Instruções de roteiro para exercícios do Encontro 3
 
-** Conteúdo abordado **: CSS básico e CSS box model
+** Conteúdo abordado **: CSS básico
 
 ## Exercício 1
 * Defina o título da página como "IFRO Campus Vilhena".

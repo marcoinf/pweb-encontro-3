@@ -1,6 +1,6 @@
 # Instruções de roteiro para exemplos do Encontro 3
 
-** Conteúdo abordado **: CSS básico e CSS box model
+** Conteúdo abordado **: CSS básico
 
 ## Exemplo 1
 * Crie o cóldigo CSS no cabeçalho do documento HTML.
